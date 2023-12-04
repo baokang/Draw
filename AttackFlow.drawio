@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T14:10:48.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3WGMcYAwUZwCeBtrNsIQ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T14:18:04.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="A1XudXqJd7MNnVQRP8LF" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2074" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="KOhP_a8CkZXBMH2VqZed-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KOhP_a8CkZXBMH2VqZed-3" target="KOhP_a8CkZXBMH2VqZed-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KOhP_a8CkZXBMH2VqZed-3" value="页面载入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="50" width="70" height="30" as="geometry" />
+        <mxCell id="KOhP_a8CkZXBMH2VqZed-3" value="页面载入（Update）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="50" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KOhP_a8CkZXBMH2VqZed-8" target="KOhP_a8CkZXBMH2VqZed-21">
           <mxGeometry relative="1" as="geometry" />
@@ -295,7 +295,7 @@
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KOhP_a8CkZXBMH2VqZed-103">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="260" as="targetPoint" />
+            <mxPoint x="280" y="350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="80" y="350" />
               <mxPoint x="280" y="350" />
