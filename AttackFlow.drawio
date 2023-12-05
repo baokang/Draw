@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T02:55:15.873Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gpTORfCusX06g_qh7Hb9" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T02:56:36.378Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ncIT9o8b1fPLJSJkdlf-" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -365,22 +365,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GmGk-2_i5kGj6uhHhdG9-1" value="组件载入（Start）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="-120" width="120" height="30" as="geometry" />
+          <mxGeometry x="-240" y="-130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GmGk-2_i5kGj6uhHhdG9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GmGk-2_i5kGj6uhHhdG9-2" target="GmGk-2_i5kGj6uhHhdG9-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GmGk-2_i5kGj6uhHhdG9-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="-50" width="40" height="40" as="geometry" />
+          <mxGeometry x="-200" y="-60" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GmGk-2_i5kGj6uhHhdG9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GmGk-2_i5kGj6uhHhdG9-5" target="GmGk-2_i5kGj6uhHhdG9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GmGk-2_i5kGj6uhHhdG9-5" value="status=1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-287.5" y="30" width="75" height="40" as="geometry" />
+          <mxGeometry x="-217.5" y="20" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GmGk-2_i5kGj6uhHhdG9-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="120" width="40" height="40" as="geometry" />
+          <mxGeometry x="-200" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GmGk-2_i5kGj6uhHhdG9-10" value="状态枚举" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-120" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GmGk-2_i5kGj6uhHhdG9-11" value="status =1，战斗初始化" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GmGk-2_i5kGj6uhHhdG9-10">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GmGk-2_i5kGj6uhHhdG9-12" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GmGk-2_i5kGj6uhHhdG9-10">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GmGk-2_i5kGj6uhHhdG9-13" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GmGk-2_i5kGj6uhHhdG9-10">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
