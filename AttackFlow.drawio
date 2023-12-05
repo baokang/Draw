@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T08:27:18.091Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6IfnjhhJEpGsewvckXvC" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T08:28:06.221Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="evh9igWHp0O18lBgE2Uf" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="KOhP_a8CkZXBMH2VqZed-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-10" target="KOhP_a8CkZXBMH2VqZed-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KOhP_a8CkZXBMH2VqZed-10" value="显示文字动画【怪物加载中...(3)】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KOhP_a8CkZXBMH2VqZed-10" value="初始化文字提示【寻找怪物中...】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-21" target="KOhP_a8CkZXBMH2VqZed-10" edge="1">
@@ -323,7 +323,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KOhP_a8CkZXBMH2VqZed-126" value="倒计时3秒" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KOhP_a8CkZXBMH2VqZed-126" value="【寻找怪物中...】倒计时3秒" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-126" target="KOhP_a8CkZXBMH2VqZed-126" edge="1">
