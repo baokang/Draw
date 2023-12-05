@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T13:31:19.984Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZGyuJ60wJIL0kiddnBTF" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T13:35:08.948Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yRXs__Mk6c_nc9ty0XiI" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,6 +415,9 @@
         <mxCell id="R9PxVfkdYk-jsbDcuszU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AT_4u153b9YZXBhiMqOR-8" target="R9PxVfkdYk-jsbDcuszU-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="R9PxVfkdYk-jsbDcuszU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AT_4u153b9YZXBhiMqOR-8" target="R9PxVfkdYk-jsbDcuszU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AT_4u153b9YZXBhiMqOR-8" value="杀怪奖励" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="855" y="1140" width="120" height="30" as="geometry" />
         </mxCell>
@@ -458,6 +461,9 @@
         </mxCell>
         <mxCell id="R9PxVfkdYk-jsbDcuszU-3" value="判断怪物是否全部死亡" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1075" y="1115" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9PxVfkdYk-jsbDcuszU-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="902.5" y="1220" width="25" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
