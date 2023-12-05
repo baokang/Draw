@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T09:22:54.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uJBb88Os2ldwJjzfPdsq" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T09:46:26.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NYHttiq3YladhJV_u91n" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FIRQjG2Zw5F66ws_piUR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="FIRQjG2Zw5F66ws_piUR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="1390" width="1040" height="670" as="geometry" />
         </mxCell>
         <mxCell id="zeq2QRLkhmlMF3i9LT_V-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-1" target="zeq2QRLkhmlMF3i9LT_V-1" edge="1">
@@ -92,7 +92,7 @@
         <mxCell id="KOhP_a8CkZXBMH2VqZed-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-42" target="KOhP_a8CkZXBMH2VqZed-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIRQjG2Zw5F66ws_piUR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KOhP_a8CkZXBMH2VqZed-42" target="KOhP_a8CkZXBMH2VqZed-44">
+        <mxCell id="FIRQjG2Zw5F66ws_piUR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-42" target="KOhP_a8CkZXBMH2VqZed-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-42" value="人物攻击计时" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -295,7 +295,7 @@
         <mxCell id="KOhP_a8CkZXBMH2VqZed-112" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="627.5" y="2110" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FIRQjG2Zw5F66ws_piUR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KOhP_a8CkZXBMH2VqZed-117" target="KOhP_a8CkZXBMH2VqZed-65">
+        <mxCell id="FIRQjG2Zw5F66ws_piUR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-117" target="KOhP_a8CkZXBMH2VqZed-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-117" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;判断状态&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -409,7 +409,7 @@
         <mxCell id="AT_4u153b9YZXBhiMqOR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AT_4u153b9YZXBhiMqOR-2" target="AT_4u153b9YZXBhiMqOR-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT_4u153b9YZXBhiMqOR-2" value="Destroy怪物UI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AT_4u153b9YZXBhiMqOR-2" value="隐藏死亡怪物UI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="855" y="1067.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AT_4u153b9YZXBhiMqOR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AT_4u153b9YZXBhiMqOR-8" target="KOhP_a8CkZXBMH2VqZed-64" edge="1">
@@ -418,22 +418,22 @@
         <mxCell id="AT_4u153b9YZXBhiMqOR-8" value="杀怪奖励" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="855" y="1140" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIRQjG2Zw5F66ws_piUR-5" value="怪物列表循环" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FIRQjG2Zw5F66ws_piUR-5" value="怪物列表循环" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="1390" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIRQjG2Zw5F66ws_piUR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIRQjG2Zw5F66ws_piUR-7" target="KOhP_a8CkZXBMH2VqZed-46">
+        <mxCell id="FIRQjG2Zw5F66ws_piUR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIRQjG2Zw5F66ws_piUR-7" target="KOhP_a8CkZXBMH2VqZed-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIRQjG2Zw5F66ws_piUR-7" value="选择攻击目标" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FIRQjG2Zw5F66ws_piUR-7" value="选择攻击目标" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="815" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FIRQjG2Zw5F66ws_piUR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KOhP_a8CkZXBMH2VqZed-44">
+        <mxCell id="FIRQjG2Zw5F66ws_piUR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="KOhP_a8CkZXBMH2VqZed-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="639.5" y="740" as="sourcePoint" />
             <mxPoint x="640" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FIRQjG2Zw5F66ws_piUR-11" value="未到人物攻击时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FIRQjG2Zw5F66ws_piUR-10">
+        <mxCell id="FIRQjG2Zw5F66ws_piUR-11" value="未到人物攻击时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FIRQjG2Zw5F66ws_piUR-10" vertex="1" connectable="0">
           <mxGeometry x="-0.09" relative="1" as="geometry">
             <mxPoint y="122" as="offset" />
           </mxGeometry>
