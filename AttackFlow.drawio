@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T14:07:26.528Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="X3bfPNhwaPdjR7VjDLfl" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T14:28:40.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cixiE8MLhpRG4wvOIaMt" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,35 +118,35 @@
             <mxPoint x="639.5" y="1205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KOhP_a8CkZXBMH2VqZed-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-46" target="KOhP_a8CkZXBMH2VqZed-49" edge="1">
+        <mxCell id="R9PxVfkdYk-jsbDcuszU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KOhP_a8CkZXBMH2VqZed-46" target="R9PxVfkdYk-jsbDcuszU-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-46" value="计算怪物受伤害数值" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="815" width="130" height="40" as="geometry" />
+          <mxGeometry x="1025" y="815" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-49" target="KOhP_a8CkZXBMH2VqZed-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-49" value="显示人物攻击动画" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1329" y="815" width="130" height="40" as="geometry" />
+          <mxGeometry x="1400" y="815" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-51" target="KOhP_a8CkZXBMH2VqZed-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-51" value="显示怪物受攻击效果" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1539" y="815" width="130" height="40" as="geometry" />
+          <mxGeometry x="1610" y="815" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-53" target="KOhP_a8CkZXBMH2VqZed-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-53" value="显示怪物受伤飘血" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1539" y="935" width="130" height="40" as="geometry" />
+          <mxGeometry x="1610" y="935" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-57" target="KOhP_a8CkZXBMH2VqZed-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-57" value="更新怪物UI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1329" y="935" width="130" height="40" as="geometry" />
+          <mxGeometry x="1400" y="935" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-59" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -418,7 +418,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FIRQjG2Zw5F66ws_piUR-7" value="选择攻击目标" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="817.5" y="815" width="130" height="40" as="geometry" />
+          <mxGeometry x="840" y="815" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FIRQjG2Zw5F66ws_piUR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="KOhP_a8CkZXBMH2VqZed-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -462,6 +462,12 @@
         </mxCell>
         <mxCell id="R9PxVfkdYk-jsbDcuszU-22" value="status=7" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="1135" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R9PxVfkdYk-jsbDcuszU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R9PxVfkdYk-jsbDcuszU-27" target="KOhP_a8CkZXBMH2VqZed-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9PxVfkdYk-jsbDcuszU-27" value="怪物扣血" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1231" y="815" width="94" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
