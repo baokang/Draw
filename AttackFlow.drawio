@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T09:15:57.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3sCLLdnSHbx-0zExWUWQ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T09:16:45.580Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zSaN1dTBLkRS66n-Krdf" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,26 +101,22 @@
         <mxCell id="KOhP_a8CkZXBMH2VqZed-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-44" target="FIRQjG2Zw5F66ws_piUR-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="835" />
+              <mxPoint x="730" y="835" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KOhP_a8CkZXBMH2VqZed-48" value="已到人物攻击时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KOhP_a8CkZXBMH2VqZed-47" vertex="1" connectable="0">
+        <mxCell id="KOhP_a8CkZXBMH2VqZed-48" value="已到人物&lt;br&gt;攻击时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KOhP_a8CkZXBMH2VqZed-47" vertex="1" connectable="0">
           <mxGeometry x="-0.24" relative="1" as="geometry">
-            <mxPoint x="-65" as="offset" />
+            <mxPoint x="11" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KOhP_a8CkZXBMH2VqZed-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="KOhP_a8CkZXBMH2VqZed-117" edge="1">
+        <mxCell id="KOhP_a8CkZXBMH2VqZed-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KOhP_a8CkZXBMH2VqZed-44" target="KOhP_a8CkZXBMH2VqZed-117" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="639.5" y="740" as="sourcePoint" />
             <mxPoint x="639.5" y="1205" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="KOhP_a8CkZXBMH2VqZed-67" value="未到人物攻击时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KOhP_a8CkZXBMH2VqZed-66" vertex="1" connectable="0">
-          <mxGeometry x="-0.09" relative="1" as="geometry">
-            <mxPoint y="122" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KOhP_a8CkZXBMH2VqZed-44" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;判断计时&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="805" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KOhP_a8CkZXBMH2VqZed-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOhP_a8CkZXBMH2VqZed-46" target="KOhP_a8CkZXBMH2VqZed-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -429,7 +425,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIRQjG2Zw5F66ws_piUR-7" value="选择攻击目标" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="825" y="815" width="130" height="40" as="geometry" />
+          <mxGeometry x="810" y="815" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FIRQjG2Zw5F66ws_piUR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KOhP_a8CkZXBMH2VqZed-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639.5" y="740" as="sourcePoint" />
+            <mxPoint x="640" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIRQjG2Zw5F66ws_piUR-11" value="未到人物攻击时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FIRQjG2Zw5F66ws_piUR-10">
+          <mxGeometry x="-0.09" relative="1" as="geometry">
+            <mxPoint y="122" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KOhP_a8CkZXBMH2VqZed-44" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;判断计时&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="805" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
