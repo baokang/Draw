@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T13:07:20.670Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mVeE2fT9D08qTmscaedZ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T13:07:40.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8HtGEoXSv2BTG_mMuRmL" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -554,16 +554,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-18" value="更新角色数据库&lt;br&gt;Level、Exp、ExpUp字段" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2050" y="1580" width="120" height="50" as="geometry" />
+          <mxGeometry x="2050" y="1550" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XJ9-4VFd11T73-5bdpHJ-20" target="XJ9-4VFd11T73-5bdpHJ-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-20" value="更新RunningTimeHero经验、等级、下一级经验字段" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2050" y="1710" width="120" height="60" as="geometry" />
+          <mxGeometry x="2050" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOALk85_yxmptE380hJ_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XJ9-4VFd11T73-5bdpHJ-24" target="ZOALk85_yxmptE380hJ_-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-24" value="更新人物等级UI信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2050" y="1810" width="120" height="40" as="geometry" />
+          <mxGeometry x="2050" y="1745" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XJ9-4VFd11T73-5bdpHJ-28" target="XJ9-4VFd11T73-5bdpHJ-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -601,8 +604,16 @@
         <mxCell id="ZOALk85_yxmptE380hJ_-7" value="发送LogUI获取&lt;br&gt;经验信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1845" y="1340" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZOALk85_yxmptE380hJ_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOALk85_yxmptE380hJ_-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1905" y="1900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2110" y="1900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZOALk85_yxmptE380hJ_-12" value="发送LogUI升级&lt;br&gt;信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="1880" width="120" height="40" as="geometry" />
+          <mxGeometry x="2050" y="1825" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
