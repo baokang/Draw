@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T03:33:37.746Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Go-RWPEynf0ndJ-oHaRW" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T03:34:17.639Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8m-KWZBgwOhO4rhBnjWl" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XJ9-4VFd11T73-5bdpHJ-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1610" y="1320" width="680" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="XJ9-4VFd11T73-5bdpHJ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="XJ9-4VFd11T73-5bdpHJ-32">
+          <mxGeometry width="680" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="XJ9-4VFd11T73-5bdpHJ-31" value="经验奖励" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XJ9-4VFd11T73-5bdpHJ-32">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-48" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1610" y="2080" width="680" height="340" as="geometry" />
         </mxCell>
@@ -582,23 +591,20 @@
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-28" value="计算获取金币数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1845" y="2102.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XJ9-4VFd11T73-5bdpHJ-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1610" y="1320" width="680" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="XJ9-4VFd11T73-5bdpHJ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="XJ9-4VFd11T73-5bdpHJ-32">
-          <mxGeometry width="680" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="XJ9-4VFd11T73-5bdpHJ-31" value="经验奖励" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XJ9-4VFd11T73-5bdpHJ-32">
-          <mxGeometry width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XJ9-4VFd11T73-5bdpHJ-33" target="XJ9-4VFd11T73-5bdpHJ-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-33" value="更新角色数据库金币字段" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1845" y="2222.5" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XJ9-4VFd11T73-5bdpHJ-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XJ9-4VFd11T73-5bdpHJ-35" target="XJ9-4VFd11T73-5bdpHJ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-35" value="更新背包金币UI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1845" y="2342.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XJ9-4VFd11T73-5bdpHJ-51" value="计算获取的装备列表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1845" y="2480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
