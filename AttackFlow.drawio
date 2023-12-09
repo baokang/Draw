@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T07:14:17.407Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mXg8TBUnYzwLakLFnrCy" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-09T02:19:34.114Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="R6Mky5hycU3F4utR5Zek" version="22.1.7" type="github">
   <diagram name="第 1 页" id="wki9Lu-EvYa9kioTxKlD">
-    <mxGraphModel dx="2901" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -609,7 +609,7 @@
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-50" value="金币奖励" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1610" y="2090" width="80" height="13.972602739726026" as="geometry" />
         </mxCell>
-        <mxCell id="ddlipnQN4IWDGR0PneyF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XJ9-4VFd11T73-5bdpHJ-28" target="ddlipnQN4IWDGR0PneyF-6">
+        <mxCell id="ddlipnQN4IWDGR0PneyF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XJ9-4VFd11T73-5bdpHJ-28" target="ddlipnQN4IWDGR0PneyF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-28" value="根据怪物获取奖励配置数据" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -618,11 +618,14 @@
         <mxCell id="XJ9-4VFd11T73-5bdpHJ-33" value="更新角色数据库金币字段" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1845" y="2270" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ddlipnQN4IWDGR0PneyF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddlipnQN4IWDGR0PneyF-6" target="XJ9-4VFd11T73-5bdpHJ-33">
+        <mxCell id="ddlipnQN4IWDGR0PneyF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ddlipnQN4IWDGR0PneyF-6" target="XJ9-4VFd11T73-5bdpHJ-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ddlipnQN4IWDGR0PneyF-6" value="计算奖励金币数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ddlipnQN4IWDGR0PneyF-6" value="计算奖励金币数" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1845" y="2180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USzbkEteTLK9VwCgocn3-1" value="装备奖励" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="2466.03" width="80" height="13.972602739726026" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
