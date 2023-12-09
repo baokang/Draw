@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T02:59:32.487Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VuS6NvVQ8uKYRyoP82Mg" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-09T03:00:38.940Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hVMBAZVpN_m950mjnkS2" version="22.1.7" type="github">
   <diagram name="第 1 页" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -627,7 +627,10 @@
         <mxCell id="ddlipnQN4IWDGR0PneyF-6" value="计算奖励金币数" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1845" y="2180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="USzbkEteTLK9VwCgocn3-6" value="计算获取的装备列表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="USzbkEteTLK9VwCgocn3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USzbkEteTLK9VwCgocn3-6" target="USzbkEteTLK9VwCgocn3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USzbkEteTLK9VwCgocn3-6" value="装备数据写入背包数据库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1845" y="2590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="USzbkEteTLK9VwCgocn3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USzbkEteTLK9VwCgocn3-8" target="XJ9-4VFd11T73-5bdpHJ-51">
@@ -635,6 +638,21 @@
         </mxCell>
         <mxCell id="USzbkEteTLK9VwCgocn3-8" value="发送获取金币Log" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1845" y="2420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USzbkEteTLK9VwCgocn3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USzbkEteTLK9VwCgocn3-13" target="USzbkEteTLK9VwCgocn3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USzbkEteTLK9VwCgocn3-13" value="更新背包UI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1845" y="2670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USzbkEteTLK9VwCgocn3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="USzbkEteTLK9VwCgocn3-15" target="USzbkEteTLK9VwCgocn3-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USzbkEteTLK9VwCgocn3-15" value="发送获取装备Log" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1845" y="2750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USzbkEteTLK9VwCgocn3-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="2960" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
