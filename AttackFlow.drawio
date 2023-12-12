@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T07:20:33.543Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="e2rlLVfa4VkOPTAIHmAg" version="22.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-12T07:20:44.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JPLa-uqIJsM0x4ndh2hA" version="22.1.7" type="github" pages="2">
   <diagram name="战斗流程" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -716,7 +716,7 @@
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="185" y="1120" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Ya1YS8sR0Sr5ER0_RL6A-20" parent="1">
+        <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Ya1YS8sR0Sr5ER0_RL6A-20" target="Ya1YS8sR0Sr5ER0_RL6A-25" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="205" as="targetPoint" />
           </mxGeometry>
@@ -729,38 +729,38 @@
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Ya1YS8sR0Sr5ER0_RL6A-25" target="Ya1YS8sR0Sr5ER0_RL6A-29" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="455" as="targetPoint" />
+            <mxPoint x="560" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-25" value="更新相应位置装备position=1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="330" width="120" height="45" as="geometry" />
+          <mxGeometry x="500" y="220" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Ya1YS8sR0Sr5ER0_RL6A-29" target="Ya1YS8sR0Sr5ER0_RL6A-31" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-29" value="更新背包UI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="435" width="120" height="45" as="geometry" />
+          <mxGeometry x="500" y="325" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Ya1YS8sR0Sr5ER0_RL6A-31" target="Ya1YS8sR0Sr5ER0_RL6A-33" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-31" value="重新计算currentHero属性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="530" width="120" height="45" as="geometry" />
+          <mxGeometry x="500" y="420" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ya1YS8sR0Sr5ER0_RL6A-33" target="Ya1YS8sR0Sr5ER0_RL6A-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-33" value="更新人物UI信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="625" width="120" height="45" as="geometry" />
+          <mxGeometry x="500" y="515" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Ya1YS8sR0Sr5ER0_RL6A-35" target="Ya1YS8sR0Sr5ER0_RL6A-36" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-35" value="关闭查看物品面板" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="815" width="120" height="45" as="geometry" />
+          <mxGeometry x="500" y="705" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="540" y="920" width="40" height="40" as="geometry" />
+          <mxGeometry x="540" y="810" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ya1YS8sR0Sr5ER0_RL6A-37" target="Ya1YS8sR0Sr5ER0_RL6A-15">
           <mxGeometry relative="1" as="geometry" />
@@ -772,7 +772,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-40" value="更新人物装备&lt;br&gt;面板UI信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="715" width="120" height="45" as="geometry" />
+          <mxGeometry x="500" y="605" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
