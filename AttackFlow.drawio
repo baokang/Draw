@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T16:17:14.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xfyrDQxOrh5a8uGeUPsb" version="22.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-13T16:17:21.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ssofBhGqO6CpuSNlMBV_" version="22.1.8" type="github" pages="2">
   <diagram name="战斗流程" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -713,10 +713,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-15" value="关闭查看物品面板" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="145" y="1024" width="120" height="45" as="geometry" />
+          <mxGeometry x="145" y="950" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="185" y="1120" width="40" height="40" as="geometry" />
+          <mxGeometry x="185" y="1060" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ya1YS8sR0Sr5ER0_RL6A-20" target="Ya1YS8sR0Sr5ER0_RL6A-25" edge="1">
           <mxGeometry relative="1" as="geometry">
