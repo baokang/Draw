@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T16:17:21.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ssofBhGqO6CpuSNlMBV_" version="22.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-15T06:16:53.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SllYlLBgn8StdCUMAdeb" version="22.1.9" type="github" pages="3">
   <diagram name="战斗流程" id="wki9Lu-EvYa9kioTxKlD">
-    <mxGraphModel dx="2901" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -658,7 +658,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="19QAXLoUOpq8SwC91hlY" name="换装流程">
-    <mxGraphModel dx="2074" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -769,6 +769,41 @@
         </mxCell>
         <mxCell id="Ya1YS8sR0Sr5ER0_RL6A-40" value="更新人物装备&lt;br&gt;面板UI信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="605" width="120" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="op53d7bE1CyFgOt2dJlD" name="运行时数据">
+    <mxGraphModel dx="2074" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fQCh_PZ17gQnjAzEBh2E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fQCh_PZ17gQnjAzEBh2E-1" target="fQCh_PZ17gQnjAzEBh2E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQCh_PZ17gQnjAzEBh2E-1" value="Hero数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQCh_PZ17gQnjAzEBh2E-2" value="运行时角色数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQCh_PZ17gQnjAzEBh2E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fQCh_PZ17gQnjAzEBh2E-4" target="fQCh_PZ17gQnjAzEBh2E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQCh_PZ17gQnjAzEBh2E-4" value="HeroItem数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQCh_PZ17gQnjAzEBh2E-11" value="触发计算场景：&lt;br&gt;1、主城&amp;amp;战斗场景加载&lt;br&gt;2、卸下装备&lt;br&gt;3、穿戴装备" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="410" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fQCh_PZ17gQnjAzEBh2E-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fQCh_PZ17gQnjAzEBh2E-12" target="fQCh_PZ17gQnjAzEBh2E-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQCh_PZ17gQnjAzEBh2E-12" value="游戏数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQCh_PZ17gQnjAzEBh2E-13" value="PlayerData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
