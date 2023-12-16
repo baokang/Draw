@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T00:50:20.549Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FA1W6t7M4y2k3OAyautJ" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-16T01:15:01.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YBzW49C4reNscOti1b8-" version="22.1.11" type="github" pages="3">
   <diagram name="战斗流程" id="wki9Lu-EvYa9kioTxKlD">
     <mxGraphModel dx="2901" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -815,17 +815,23 @@
         <mxCell id="fQCh_PZ17gQnjAzEBh2E-12" value="游戏数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lbz3Q23B3FQGx7tdwrae-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fQCh_PZ17gQnjAzEBh2E-13" target="lbz3Q23B3FQGx7tdwrae-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fQCh_PZ17gQnjAzEBh2E-13" value="PlayerData" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbz3Q23B3FQGx7tdwrae-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lbz3Q23B3FQGx7tdwrae-1" target="lbz3Q23B3FQGx7tdwrae-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lbz3Q23B3FQGx7tdwrae-1" value="GameData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lbz3Q23B3FQGx7tdwrae-3" value="Account&lt;br style=&quot;font-size: 14px;&quot;&gt;ChoseHeroUID&lt;br style=&quot;font-size: 14px;&quot;&gt;CurrentMap&lt;br style=&quot;font-size: 14px;&quot;&gt;RunningTimeHero" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=2;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="547.5" y="770" width="185" height="80" as="geometry" />
+        <mxCell id="lbz3Q23B3FQGx7tdwrae-3" value="Account（打开游戏加载或者初始化）&lt;br style=&quot;font-size: 14px;&quot;&gt;ChoseHeroUID（选择角色后赋值）&lt;br style=&quot;font-size: 14px;&quot;&gt;CurrentMap（场景地图切换时赋值）&lt;br style=&quot;font-size: 14px;&quot;&gt;RunningTimeHero（根据触发场景计算）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=2;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="780" width="272.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lbz3Q23B3FQGx7tdwrae-4" value="LevelUpConfig&lt;br&gt;RoleLevelConfig&lt;br&gt;MapMonConfig&lt;br&gt;Items&lt;br&gt;Monsters" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=2;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="540" y="980" width="185" height="80" as="geometry" />
+        <mxCell id="lbz3Q23B3FQGx7tdwrae-4" value="LevelUpConfig（升级配置）&lt;br&gt;RoleLevelConfig（升级属性配置）&lt;br&gt;MapMonConfig（地图怪物配置）&lt;br&gt;Items（物品缓存）&lt;br&gt;Monsters（怪物缓存）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=2;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="540" y="980" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
